@@ -1,9 +1,6 @@
-# StatesCapitalQuizGamebeginners
-## State's Capital Quiz Game for beginners 
+This is our Fall 2021 Hackathon. 
 
-Generic Quiz Game using languages HTML/CSS/Js
-
-User have to choose one right answer from 4 options and total number of questions are 10
+We are tying to build a webapp that acts as a hub where students could meet to help each other study.
 
 
 
